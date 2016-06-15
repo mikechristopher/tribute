@@ -1,0 +1,64 @@
+html,
+body {
+  height: 100%;
+}
+
+.page {
+  padding: 15px;
+  background-color: #000;
+  min-height: 100%;
+  height: 100%;
+}
+
+.container {
+  background-color: #f0f0f0;
+  min-height: 100%;
+  height: 100%;
+}
+
+.page-header {
+  background-color: #000;
+  color: #fff;
+  padding: 5px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.img-curved {
+  border-radius: 100px;
+}
+
+blockquote {
+  border-left: none
+}
+
+.quote-box {
+  overflow: hidden;
+  margin-top: -50px;
+  padding-top: -100px;
+  border-radius: 27px;
+  background-color: #000;
+  margin-top: 25px;
+  color: white;
+  width: 700px;
+  box-shadow: 2px 2px 2px 2px #E0E0E0;
+}
+
+.quotation-mark {
+  margin-top: -20px;
+  font-weight: bold;
+  font-size: 100px;
+  color: white;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+.quote-text {
+  font-size: 19px;
+  margin-top: -125px;
+  padding: 0px 0px 0px 60px;
+}
+
+.bottom-quote {
+  font-color: #fff;
+  font-size: 12px;
+  margin-top: -15px;
+}
